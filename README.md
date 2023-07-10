@@ -7,7 +7,7 @@
 > Pode-se verificar á utilização de diversas formas de chamada de API entre os componentes, aplicação de uma camada de services
 > para a abstração da lógica de négocio que se encontraria nos controllers, Global error Handler e algumas más práticas no front-end com o objetivo
 > de entender quais são os erros que eles podem ocasionar, principalmente na manutenção e organização do projeto além de
-> testar algumas biblíotecas como DaisyUi e Redux-toolkit.
+> testar algumas biblíotecas como DaisyUi e Redux-toolkit e supressão de algumas rotas para serem diretas ao que eu precisava para o intuito do estudo.
 
 <img src="https://github.com/kaiotcp1/Perscom-laboratory/assets/31595749/43ab2762-7a35-4d93-9de6-ea171293cbaf" alt="drawing"/>
 
