@@ -39,7 +39,7 @@ npm run server  -> server
 
 ## Links importantes
 * [ARMA III](https://code.visualstudio.com) - Jogo utilizado para o conceito da aplicação.
-* [3ºInfantary](https://3rdinf.us/perscom/personnel/roster/1-personnel-files/) 
+* [3ºInfantary](https://3rdinf.us/perscom/personnel/roster/1-personnel-files/) Perscom
 ----
 # Perscom
 
