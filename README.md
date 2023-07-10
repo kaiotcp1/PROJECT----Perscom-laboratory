@@ -51,7 +51,6 @@ Fornecer um gerenciador de grupos e soldados para melhorar a eficiência operaci
 <img src="https://github.com/kaiotcp1/Perscom-laboratory/assets/31595749/2401c495-89ce-40a5-b865-74ad0e5575f1" alt="drawing" width="200"/>
 <img src="https://github.com/kaiotcp1/Perscom-laboratory/assets/31595749/c269faeb-e6e6-43b5-9d16-01bacac7ae3c" alt="drawing" width="210"/>
 <img src="https://github.com/kaiotcp1/Perscom-laboratory/assets/31595749/a311c3d4-2bdd-48c2-957d-6ace7250b01b" alt="drawing" width="223"/>
-<img src="https://github.com/kaiotcp1/Perscom-laboratory/assets/31595749/96877dfe-a608-41a8-b933-2a18b075d20c" alt="drawing" width="233"/>
 
 ### Descrição do ambiente técnico
 O sistema é composto por um banco de dados, uma interface web e uma api.
